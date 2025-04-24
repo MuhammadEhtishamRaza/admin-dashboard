@@ -16,3 +16,6 @@ This project demonstrates a component-based architecture with responsive design,
 
 5- Recharts
 
+## URL:
+
+https://admin-dashboard-six-lac-22.vercel.app/
