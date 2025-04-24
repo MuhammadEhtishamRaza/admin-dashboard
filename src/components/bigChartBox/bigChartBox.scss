@@ -1,0 +1,18 @@
+@use "../../styles/responsive.scss" as *;
+
+.bigChartBox {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  h1 {
+    @include xxl {
+      font-size: 24px;
+    }
+  }
+  .chart {
+    width: 100%;
+    height: 300px;
+  }
+}
